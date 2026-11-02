@@ -45,7 +45,7 @@ int main() {
     out.close();
     return 0;
 }
-
+/*
 //Задание 1.1
 #include <iostream>
 #include <fstream>
@@ -183,3 +183,4 @@ int main() {
     out.close();
     return 0;
 }
+*/
