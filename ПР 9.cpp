@@ -1,3 +1,4 @@
+/*
 // Задание 1
 #include <iostream>
 #include <fstream>
@@ -45,6 +46,9 @@ int main() {
     out.close();
     return 0;
 }
+// why do they call it a building if it is already built
+// building
+*/
 /*
 //Задание 1.1
 #include <iostream>
@@ -94,7 +98,8 @@ int main() {
     out.close();
     return 0;
 }
-
+*/
+/*
 // Задание 2
 #include <iostream>
 #include <fstream>
@@ -126,7 +131,8 @@ int main() {
     in2.close();
     return 0;
 }
-
+*/
+/*
 // Задание 3
 #include <iostream>
 #include <fstream>
